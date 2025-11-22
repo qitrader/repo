@@ -1,4 +1,4 @@
-package("cpphttp")
+package("httpcpp")
     set_homepage("https://github.com/qitrader/httpcpp")
     set_description("A http library for CPP.")
 
